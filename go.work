@@ -1,0 +1,10 @@
+go 1.20
+
+use (
+	./bases/base
+	./bases/flowcontrol
+	./bases/moretypes
+	./concurrency
+	./methods
+	./welcome
+)
