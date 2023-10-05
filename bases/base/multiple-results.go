@@ -12,3 +12,5 @@ func main() {
 	a, b := swap("hello", "world")
 	fmt.Println(a, b)
 }
+
+//go run確認済み

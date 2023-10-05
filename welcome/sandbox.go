@@ -12,3 +12,5 @@ func main() {
 
 	fmt.Println("The time is", time.Now())
 }
+
+//go run確認済み
