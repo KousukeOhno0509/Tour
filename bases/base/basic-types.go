@@ -18,3 +18,5 @@ func main() {
 	fmt.Printf("Type: %T Value: %v\n", MaxInt, MaxInt)
 	fmt.Printf("Type: %T Value: %v\n", z, z)
 }
+
+//go run確認済み
