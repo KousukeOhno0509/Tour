@@ -10,5 +10,3 @@ import (
 func main() {
 	fmt.Println(math.Pi)
 }
-
-//go run確認済み
