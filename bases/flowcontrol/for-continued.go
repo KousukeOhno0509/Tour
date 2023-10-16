@@ -11,3 +11,5 @@ func main() {
 	}
 	fmt.Println(sum)
 }
+
+// go run確認済み
