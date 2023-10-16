@@ -14,3 +14,5 @@ func main() {
 	const Truth = true
 	fmt.Println("Go rules?", Truth)
 }
+
+//go run確認済み

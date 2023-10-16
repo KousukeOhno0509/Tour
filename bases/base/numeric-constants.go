@@ -22,3 +22,5 @@ func main() {
 	fmt.Println(needFloat(Small))
 	fmt.Println(needFloat(Big))
 }
+
+//go run確認済み
